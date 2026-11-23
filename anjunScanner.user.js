@@ -4,8 +4,8 @@
 // @version      5.0
 // @description  Aimbot focado no portal Vue.js da Anjun. Detecta automaticamente se o alvo é o Pacote ou a Saca (Lacre) e burla a reatividade do framework.
 // @match        *://manage.anjunexpress.com/*
-// @updateURL    https://raw.githubusercontent.com/IsaqueAmancio/anjunScanner/main/anjunScanner.user.js
-// @downloadURL  https://raw.githubusercontent.com/IsaqueAmancio/anjunScanner/main/anjunScanner.user.js
+// @updateURL    https://raw.githubusercontent.com/IsaqueAmancio/anjun-scanner/main/anjunScanner.user.js
+// @downloadURL  https://raw.githubusercontent.com/IsaqueAmancio/anjun-scanner/main/anjunScanner.user.js
 // @grant        none
 // ==/UserScript==
 
